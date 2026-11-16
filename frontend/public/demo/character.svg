@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <defs><linearGradient id="background" x2="1" y2="1"><stop stop-color="#153946"/><stop offset="1" stop-color="#259d95"/></linearGradient></defs>
+  <rect width="720" height="960" fill="url(#background)"/>
+  <circle cx="570" cy="160" r="130" fill="#d8ead2" opacity=".15"/>
+  <rect x="80" y="80" width="560" height="800" rx="30" fill="none" stroke="#afdfd5" opacity=".5"/>
+  <circle cx="360" cy="345" r="100" fill="#f1d3b6"/>
+  <path d="M260 330 Q245 190 360 220 Q490 200 460 335 L420 290 L290 310Z" fill="#25353d"/>
+  <path d="M180 680 Q180 460 360 460 Q540 460 540 680Z" fill="#d7c7aa"/>
+  <path d="M325 460 L360 570 L395 460" fill="#f8f6eb"/>
+  <circle cx="325" cy="350" r="6" fill="#25353d"/><circle cx="395" cy="350" r="6" fill="#25353d"/>
+  <path d="M335 393 Q360 415 385 393" fill="none" stroke="#ae7867" stroke-width="5"/>
+  <text x="360" y="755" text-anchor="middle" fill="#f1faf7" font-size="36" font-family="sans-serif">小林 · 示例角色</text>
+  <text x="360" y="810" text-anchor="middle" fill="#afdfd5" font-size="21" font-family="sans-serif">DEMO / 非 AI 实际生成</text>
+</svg>

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+backend/.env
+backend/data/
+backend/storage/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+logs/
+*.log
+logs/*.wav
+logs/*.mp4
+logs/*.ass
